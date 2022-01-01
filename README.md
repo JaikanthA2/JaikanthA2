@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaikanthA2
+- 👋 Hi, I’m @Jaikanth
 - 👀 I’m interested in Devops Automation
 - 🌱 I’m currently learning about DevOps tools..
 
